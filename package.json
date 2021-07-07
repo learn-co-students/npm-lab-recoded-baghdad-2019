@@ -1,0 +1,23 @@
+{
+  "name": "npm-lab-recoded-baghdad-2019",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019.git"
+  },
+  "author": "ibraheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019/issues"
+  },
+  "homepage": "https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "moment": "^2.24.0"
+  }
+}
